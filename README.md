@@ -9,7 +9,7 @@ ___
 ## How to set up the API to run locally.
 
 1. Clone this repo
-    * `$ git clone git@github.com:KeeganCorrigan/rales_engine.git`
+    * `$ git clone git@github.com:jtrtj/rales_engine.git`
 
 2. Run these commands:
     * `$ cd rales_engine`
